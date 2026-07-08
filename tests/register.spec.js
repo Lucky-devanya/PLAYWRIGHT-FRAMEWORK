@@ -16,7 +16,7 @@ test('Register User', async ({page}) =>{
     const state = "Telangana";
     const city = "Hyderbad";
     const zipcode = "500032";
-    const mobileno = "9949249596";
+    const mobileno = "9848539593";
 
     await page.goto('https://automationexercise.com/');
     await page.click("a[href='/login']");
